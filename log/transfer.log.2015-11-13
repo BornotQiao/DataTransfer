@@ -1,0 +1,516 @@
+2015-11-13 14:44:31 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120000_123.56.155.33.log.gz.
+2015-11-13 14:44:32 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120005_123.56.155.33.log.gz.
+2015-11-13 14:44:33 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120010_123.56.155.33.log.gz.
+2015-11-13 14:44:35 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120015_123.56.155.33.log.gz.
+2015-11-13 14:44:37 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120020_123.56.155.33.log.gz.
+2015-11-13 14:44:40 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120025_123.56.155.33.log.gz.
+2015-11-13 14:44:42 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120015_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:44:42 INFO success_logger:20150612/201506120015_123.56.155.33.log
+2015-11-13 14:44:43 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120030_123.56.155.33.log.gz.
+2015-11-13 14:44:44 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120010_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:44:44 INFO success_logger:20150612/201506120010_123.56.155.33.log
+2015-11-13 14:44:46 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120035_123.56.155.33.log.gz.
+2015-11-13 14:44:49 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120040_123.56.155.33.log.gz.
+2015-11-13 14:44:49 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120020_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:44:49 INFO success_logger:20150612/201506120020_123.56.155.33.log
+2015-11-13 14:44:50 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120025_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:44:50 INFO success_logger:20150612/201506120025_123.56.155.33.log
+2015-11-13 14:44:53 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120045_123.56.155.33.log.gz.
+2015-11-13 14:44:53 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120005_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:44:53 INFO success_logger:20150612/201506120005_123.56.155.33.log
+2015-11-13 14:44:56 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120000_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:44:56 INFO success_logger:20150612/201506120000_123.56.155.33.log
+2015-11-13 14:44:57 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120050_123.56.155.33.log.gz.
+2015-11-13 14:44:58 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120035_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:44:58 INFO success_logger:20150612/201506120035_123.56.155.33.log
+2015-11-13 14:45:00 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120055_123.56.155.33.log.gz.
+2015-11-13 14:45:01 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120040_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:01 INFO success_logger:20150612/201506120040_123.56.155.33.log
+2015-11-13 14:45:01 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120030_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:01 INFO success_logger:20150612/201506120030_123.56.155.33.log
+2015-11-13 14:45:02 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120100_123.56.155.33.log.gz.
+2015-11-13 14:45:05 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120105_123.56.155.33.log.gz.
+2015-11-13 14:45:06 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120055_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:06 INFO success_logger:20150612/201506120055_123.56.155.33.log
+2015-11-13 14:45:08 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120110_123.56.155.33.log.gz.
+2015-11-13 14:45:09 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120045_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:09 INFO success_logger:20150612/201506120045_123.56.155.33.log
+2015-11-13 14:45:10 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120115_123.56.155.33.log.gz.
+2015-11-13 14:45:13 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120120_123.56.155.33.log.gz.
+2015-11-13 14:45:14 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120050_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:14 INFO success_logger:20150612/201506120050_123.56.155.33.log
+2015-11-13 14:45:14 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120100_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:14 INFO success_logger:20150612/201506120100_123.56.155.33.log
+2015-11-13 14:45:16 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120125_123.56.155.33.log.gz.
+2015-11-13 14:45:17 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120105_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:17 INFO success_logger:20150612/201506120105_123.56.155.33.log
+2015-11-13 14:45:19 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120110_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:19 INFO success_logger:20150612/201506120110_123.56.155.33.log
+2015-11-13 14:45:20 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120130_123.56.155.33.log.gz.
+2015-11-13 14:45:22 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120120_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:22 INFO success_logger:20150612/201506120120_123.56.155.33.log
+2015-11-13 14:45:22 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120135_123.56.155.33.log.gz.
+2015-11-13 14:45:24 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120125_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:24 INFO success_logger:20150612/201506120125_123.56.155.33.log
+2015-11-13 14:45:24 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120140_123.56.155.33.log.gz.
+2015-11-13 14:45:26 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120145_123.56.155.33.log.gz.
+2015-11-13 14:45:29 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120135_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:29 INFO success_logger:20150612/201506120135_123.56.155.33.log
+2015-11-13 14:45:32 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120150_123.56.155.33.log.gz.
+2015-11-13 14:45:33 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120145_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:33 INFO success_logger:20150612/201506120145_123.56.155.33.log
+2015-11-13 14:45:34 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120140_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:34 INFO success_logger:20150612/201506120140_123.56.155.33.log
+2015-11-13 14:45:34 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120155_123.56.155.33.log.gz.
+2015-11-13 14:45:36 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120200_123.56.155.33.log.gz.
+2015-11-13 14:45:38 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120130_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:38 INFO success_logger:20150612/201506120130_123.56.155.33.log
+2015-11-13 14:45:39 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120205_123.56.155.33.log.gz.
+2015-11-13 14:45:41 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120210_123.56.155.33.log.gz.
+2015-11-13 14:45:42 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120155_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:42 INFO success_logger:20150612/201506120155_123.56.155.33.log
+2015-11-13 14:45:43 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120150_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:43 INFO success_logger:20150612/201506120150_123.56.155.33.log
+2015-11-13 14:45:44 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120215_123.56.155.33.log.gz.
+2015-11-13 14:45:44 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120200_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:44 INFO success_logger:20150612/201506120200_123.56.155.33.log
+2015-11-13 14:45:46 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120220_123.56.155.33.log.gz.
+2015-11-13 14:45:49 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120210_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:49 INFO success_logger:20150612/201506120210_123.56.155.33.log
+2015-11-13 14:45:49 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120225_123.56.155.33.log.gz.
+2015-11-13 14:45:51 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120215_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:51 INFO success_logger:20150612/201506120215_123.56.155.33.log
+2015-11-13 14:45:51 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120230_123.56.155.33.log.gz.
+2015-11-13 14:45:52 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120205_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:52 INFO success_logger:20150612/201506120205_123.56.155.33.log
+2015-11-13 14:45:55 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120225_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:55 INFO success_logger:20150612/201506120225_123.56.155.33.log
+2015-11-13 14:45:56 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120235_123.56.155.33.log.gz.
+2015-11-13 14:45:58 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120240_123.56.155.33.log.gz.
+2015-11-13 14:45:58 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120220_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:58 INFO success_logger:20150612/201506120220_123.56.155.33.log
+2015-11-13 14:45:59 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120230_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:45:59 INFO success_logger:20150612/201506120230_123.56.155.33.log
+2015-11-13 14:46:00 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120245_123.56.155.33.log.gz.
+2015-11-13 14:46:02 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120235_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:02 INFO success_logger:20150612/201506120235_123.56.155.33.log
+2015-11-13 14:46:03 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120250_123.56.155.33.log.gz.
+2015-11-13 14:46:04 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120240_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:04 INFO success_logger:20150612/201506120240_123.56.155.33.log
+2015-11-13 14:46:05 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120255_123.56.155.33.log.gz.
+2015-11-13 14:46:07 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120245_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:07 INFO success_logger:20150612/201506120245_123.56.155.33.log
+2015-11-13 14:46:07 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120300_123.56.155.33.log.gz.
+2015-11-13 14:46:09 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120250_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:09 INFO success_logger:20150612/201506120250_123.56.155.33.log
+2015-11-13 14:46:10 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120305_123.56.155.33.log.gz.
+2015-11-13 14:46:11 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120255_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:11 INFO success_logger:20150612/201506120255_123.56.155.33.log
+2015-11-13 14:46:13 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120310_123.56.155.33.log.gz.
+2015-11-13 14:46:14 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120300_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:14 INFO success_logger:20150612/201506120300_123.56.155.33.log
+2015-11-13 14:46:15 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120315_123.56.155.33.log.gz.
+2015-11-13 14:46:15 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120305_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:15 INFO success_logger:20150612/201506120305_123.56.155.33.log
+2015-11-13 14:46:16 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120320_123.56.155.33.log.gz.
+2015-11-13 14:46:19 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120315_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:19 INFO success_logger:20150612/201506120315_123.56.155.33.log
+2015-11-13 14:46:19 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120325_123.56.155.33.log.gz.
+2015-11-13 14:46:19 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120310_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:19 INFO success_logger:20150612/201506120310_123.56.155.33.log
+2015-11-13 14:46:21 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120330_123.56.155.33.log.gz.
+2015-11-13 14:46:23 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120325_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:23 INFO success_logger:20150612/201506120325_123.56.155.33.log
+2015-11-13 14:46:23 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120335_123.56.155.33.log.gz.
+2015-11-13 14:46:25 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120340_123.56.155.33.log.gz.
+2015-11-13 14:46:27 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120345_123.56.155.33.log.gz.
+2015-11-13 14:46:27 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120335_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:27 INFO success_logger:20150612/201506120335_123.56.155.33.log
+2015-11-13 14:46:28 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120320_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:28 INFO success_logger:20150612/201506120320_123.56.155.33.log
+2015-11-13 14:46:30 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120350_123.56.155.33.log.gz.
+2015-11-13 14:46:30 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120340_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:30 INFO success_logger:20150612/201506120340_123.56.155.33.log
+2015-11-13 14:46:31 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120330_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:31 INFO success_logger:20150612/201506120330_123.56.155.33.log
+2015-11-13 14:46:32 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120345_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:32 INFO success_logger:20150612/201506120345_123.56.155.33.log
+2015-11-13 14:46:32 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120355_123.56.155.33.log.gz.
+2015-11-13 14:46:33 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120400_123.56.155.33.log.gz.
+2015-11-13 14:46:35 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120355_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:35 INFO success_logger:20150612/201506120355_123.56.155.33.log
+2015-11-13 14:46:35 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120405_123.56.155.33.log.gz.
+2015-11-13 14:46:37 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120350_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:37 INFO success_logger:20150612/201506120350_123.56.155.33.log
+2015-11-13 14:46:38 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120410_123.56.155.33.log.gz.
+2015-11-13 14:46:38 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120400_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:38 INFO success_logger:20150612/201506120400_123.56.155.33.log
+2015-11-13 14:46:39 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120415_123.56.155.33.log.gz.
+2015-11-13 14:46:40 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120405_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:40 INFO success_logger:20150612/201506120405_123.56.155.33.log
+2015-11-13 14:46:41 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120420_123.56.155.33.log.gz.
+2015-11-13 14:46:44 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120425_123.56.155.33.log.gz.
+2015-11-13 14:46:44 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120415_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:44 INFO success_logger:20150612/201506120415_123.56.155.33.log
+2015-11-13 14:46:45 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120410_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:45 INFO success_logger:20150612/201506120410_123.56.155.33.log
+2015-11-13 14:46:46 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120430_123.56.155.33.log.gz.
+2015-11-13 14:46:47 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120420_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:47 INFO success_logger:20150612/201506120420_123.56.155.33.log
+2015-11-13 14:46:49 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120425_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:49 INFO success_logger:20150612/201506120425_123.56.155.33.log
+2015-11-13 14:46:49 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120435_123.56.155.33.log.gz.
+2015-11-13 14:46:50 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120115_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:50 INFO success_logger:20150612/201506120115_123.56.155.33.log
+2015-11-13 14:46:51 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120440_123.56.155.33.log.gz.
+2015-11-13 14:46:51 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120430_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:51 INFO success_logger:20150612/201506120430_123.56.155.33.log
+2015-11-13 14:46:53 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120445_123.56.155.33.log.gz.
+2015-11-13 14:46:54 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120435_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:54 INFO success_logger:20150612/201506120435_123.56.155.33.log
+2015-11-13 14:46:55 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120440_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:55 INFO success_logger:20150612/201506120440_123.56.155.33.log
+2015-11-13 14:46:55 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120450_123.56.155.33.log.gz.
+2015-11-13 14:46:57 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120445_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:57 INFO success_logger:20150612/201506120445_123.56.155.33.log
+2015-11-13 14:46:57 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120455_123.56.155.33.log.gz.
+2015-11-13 14:46:58 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120450_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:46:58 INFO success_logger:20150612/201506120450_123.56.155.33.log
+2015-11-13 14:46:59 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120500_123.56.155.33.log.gz.
+2015-11-13 14:47:01 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120505_123.56.155.33.log.gz.
+2015-11-13 14:47:01 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120455_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:01 INFO success_logger:20150612/201506120455_123.56.155.33.log
+2015-11-13 14:47:02 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120500_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:02 INFO success_logger:20150612/201506120500_123.56.155.33.log
+2015-11-13 14:47:02 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120510_123.56.155.33.log.gz.
+2015-11-13 14:47:04 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120515_123.56.155.33.log.gz.
+2015-11-13 14:47:04 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120505_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:04 INFO success_logger:20150612/201506120505_123.56.155.33.log
+2015-11-13 14:47:05 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120510_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:05 INFO success_logger:20150612/201506120510_123.56.155.33.log
+2015-11-13 14:47:06 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120520_123.56.155.33.log.gz.
+2015-11-13 14:47:07 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120515_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:07 INFO success_logger:20150612/201506120515_123.56.155.33.log
+2015-11-13 14:47:08 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120525_123.56.155.33.log.gz.
+2015-11-13 14:47:08 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120520_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:08 INFO success_logger:20150612/201506120520_123.56.155.33.log
+2015-11-13 14:47:10 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120530_123.56.155.33.log.gz.
+2015-11-13 14:47:10 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120525_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:10 INFO success_logger:20150612/201506120525_123.56.155.33.log
+2015-11-13 14:47:11 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120535_123.56.155.33.log.gz.
+2015-11-13 14:47:12 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120530_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:12 INFO success_logger:20150612/201506120530_123.56.155.33.log
+2015-11-13 14:47:13 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120540_123.56.155.33.log.gz.
+2015-11-13 14:47:15 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120545_123.56.155.33.log.gz.
+2015-11-13 14:47:15 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120535_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:15 INFO success_logger:20150612/201506120535_123.56.155.33.log
+2015-11-13 14:47:17 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120550_123.56.155.33.log.gz.
+2015-11-13 14:47:17 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120540_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:17 INFO success_logger:20150612/201506120540_123.56.155.33.log
+2015-11-13 14:47:19 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120545_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:19 INFO success_logger:20150612/201506120545_123.56.155.33.log
+2015-11-13 14:47:19 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120555_123.56.155.33.log.gz.
+2015-11-13 14:47:21 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120600_123.56.155.33.log.gz.
+2015-11-13 14:47:23 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120605_123.56.155.33.log.gz.
+2015-11-13 14:47:24 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120555_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:24 INFO success_logger:20150612/201506120555_123.56.155.33.log
+2015-11-13 14:47:24 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120550_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:47:24 INFO success_logger:20150612/201506120550_123.56.155.33.log
+2015-11-13 14:47:26 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120610_123.56.155.33.log.gz.
+2015-11-13 14:47:28 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120615_123.56.155.33.log.gz.
+2015-11-13 14:47:31 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120620_123.56.155.33.log.gz.
+2015-11-13 14:47:35 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120625_123.56.155.33.log.gz.
+2015-11-13 14:47:39 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120630_123.56.155.33.log.gz.
+2015-11-13 14:47:44 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120635_123.56.155.33.log.gz.
+2015-11-13 14:47:48 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120640_123.56.155.33.log.gz.
+2015-11-13 14:47:52 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120645_123.56.155.33.log.gz.
+2015-11-13 14:47:55 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120650_123.56.155.33.log.gz.
+2015-11-13 14:47:58 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120655_123.56.155.33.log.gz.
+2015-11-13 14:48:01 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120605_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:48:01 INFO success_logger:20150612/201506120605_123.56.155.33.log
+2015-11-13 14:48:01 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120700_123.56.155.33.log.gz.
+2015-11-13 14:48:05 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120705_123.56.155.33.log.gz.
+2015-11-13 14:48:07 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120600_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:48:07 INFO success_logger:20150612/201506120600_123.56.155.33.log
+2015-11-13 14:48:09 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120710_123.56.155.33.log.gz.
+2015-11-13 14:48:13 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120715_123.56.155.33.log.gz.
+2015-11-13 14:48:22 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120615_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:48:22 INFO success_logger:20150612/201506120615_123.56.155.33.log
+2015-11-13 14:48:24 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120720_123.56.155.33.log.gz.
+2015-11-13 14:48:28 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120725_123.56.155.33.log.gz.
+2015-11-13 14:48:31 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120730_123.56.155.33.log.gz.
+2015-11-13 14:48:31 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120620_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:48:31 INFO success_logger:20150612/201506120620_123.56.155.33.log
+2015-11-13 14:48:33 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120735_123.56.155.33.log.gz.
+2015-11-13 14:48:37 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120740_123.56.155.33.log.gz.
+2015-11-13 14:48:40 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120745_123.56.155.33.log.gz.
+2015-11-13 14:48:42 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120750_123.56.155.33.log.gz.
+2015-11-13 14:48:44 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120755_123.56.155.33.log.gz.
+2015-11-13 14:48:46 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120800_123.56.155.33.log.gz.
+2015-11-13 14:48:48 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120805_123.56.155.33.log.gz.
+2015-11-13 14:48:50 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120810_123.56.155.33.log.gz.
+2015-11-13 14:48:53 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120815_123.56.155.33.log.gz.
+2015-11-13 14:48:53 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120610_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:48:53 INFO success_logger:20150612/201506120610_123.56.155.33.log
+2015-11-13 14:48:55 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120820_123.56.155.33.log.gz.
+2015-11-13 14:48:58 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120825_123.56.155.33.log.gz.
+2015-11-13 14:54:24 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120000_123.56.155.33.log.gz.
+2015-11-13 14:54:25 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120005_123.56.155.33.log.gz.
+2015-11-13 14:54:26 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120010_123.56.155.33.log.gz.
+2015-11-13 14:54:28 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120015_123.56.155.33.log.gz.
+2015-11-13 14:54:31 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120020_123.56.155.33.log.gz.
+2015-11-13 14:54:34 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120000_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:54:34 INFO success_logger:20150612/201506120000_123.56.155.33.log
+2015-11-13 14:54:34 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120025_123.56.155.33.log.gz.
+2015-11-13 14:54:35 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120015_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:54:35 INFO success_logger:20150612/201506120015_123.56.155.33.log
+2015-11-13 14:54:37 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120005_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:54:37 INFO success_logger:20150612/201506120005_123.56.155.33.log
+2015-11-13 14:54:37 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120030_123.56.155.33.log.gz.
+2015-11-13 14:54:39 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120020_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:54:39 INFO success_logger:20150612/201506120020_123.56.155.33.log
+2015-11-13 14:54:39 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120035_123.56.155.33.log.gz.
+2015-11-13 14:54:42 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120040_123.56.155.33.log.gz.
+2015-11-13 14:54:45 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120045_123.56.155.33.log.gz.
+2015-11-13 14:54:49 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120030_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:54:49 INFO success_logger:20150612/201506120030_123.56.155.33.log
+2015-11-13 14:54:49 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120050_123.56.155.33.log.gz.
+2015-11-13 14:54:50 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120010_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:54:50 INFO success_logger:20150612/201506120010_123.56.155.33.log
+2015-11-13 14:54:51 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120035_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:54:51 INFO success_logger:20150612/201506120035_123.56.155.33.log
+2015-11-13 14:54:52 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120025_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:54:52 INFO success_logger:20150612/201506120025_123.56.155.33.log
+2015-11-13 14:54:52 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120055_123.56.155.33.log.gz.
+2015-11-13 14:54:54 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120040_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:54:54 INFO success_logger:20150612/201506120040_123.56.155.33.log
+2015-11-13 14:54:54 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120100_123.56.155.33.log.gz.
+2015-11-13 14:54:57 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120105_123.56.155.33.log.gz.
+2015-11-13 14:54:59 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120045_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:54:59 INFO success_logger:20150612/201506120045_123.56.155.33.log
+2015-11-13 14:54:59 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120055_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:54:59 INFO success_logger:20150612/201506120055_123.56.155.33.log
+2015-11-13 14:55:01 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120110_123.56.155.33.log.gz.
+2015-11-13 14:55:03 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120115_123.56.155.33.log.gz.
+2015-11-13 14:55:05 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120050_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:05 INFO success_logger:20150612/201506120050_123.56.155.33.log
+2015-11-13 14:55:06 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120120_123.56.155.33.log.gz.
+2015-11-13 14:55:10 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120110_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:10 INFO success_logger:20150612/201506120110_123.56.155.33.log
+2015-11-13 14:55:12 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120100_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:12 INFO success_logger:20150612/201506120100_123.56.155.33.log
+2015-11-13 14:55:15 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120120_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:15 INFO success_logger:20150612/201506120120_123.56.155.33.log
+2015-11-13 14:55:15 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120115_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:15 INFO success_logger:20150612/201506120115_123.56.155.33.log
+2015-11-13 14:55:15 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120105_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:15 INFO success_logger:20150612/201506120105_123.56.155.33.log
+2015-11-13 14:55:20 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120125_123.56.155.33.log.gz.
+2015-11-13 14:55:21 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120130_123.56.155.33.log.gz.
+2015-11-13 14:55:23 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120135_123.56.155.33.log.gz.
+2015-11-13 14:55:24 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120125_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:24 INFO success_logger:20150612/201506120125_123.56.155.33.log
+2015-11-13 14:55:25 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120140_123.56.155.33.log.gz.
+2015-11-13 14:55:28 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120145_123.56.155.33.log.gz.
+2015-11-13 14:55:29 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120135_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:29 INFO success_logger:20150612/201506120135_123.56.155.33.log
+2015-11-13 14:55:29 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120130_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:29 INFO success_logger:20150612/201506120130_123.56.155.33.log
+2015-11-13 14:55:30 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120150_123.56.155.33.log.gz.
+2015-11-13 14:55:33 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120155_123.56.155.33.log.gz.
+2015-11-13 14:55:33 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120140_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:33 INFO success_logger:20150612/201506120140_123.56.155.33.log
+2015-11-13 14:55:36 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120200_123.56.155.33.log.gz.
+2015-11-13 14:55:36 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120145_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:36 INFO success_logger:20150612/201506120145_123.56.155.33.log
+2015-11-13 14:55:38 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120205_123.56.155.33.log.gz.
+2015-11-13 14:55:38 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120150_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:38 INFO success_logger:20150612/201506120150_123.56.155.33.log
+2015-11-13 14:55:40 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120210_123.56.155.33.log.gz.
+2015-11-13 14:55:42 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120200_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:42 INFO success_logger:20150612/201506120200_123.56.155.33.log
+2015-11-13 14:55:42 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120215_123.56.155.33.log.gz.
+2015-11-13 14:55:45 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120220_123.56.155.33.log.gz.
+2015-11-13 14:55:47 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120205_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:47 INFO success_logger:20150612/201506120205_123.56.155.33.log
+2015-11-13 14:55:47 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120155_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:47 INFO success_logger:20150612/201506120155_123.56.155.33.log
+2015-11-13 14:55:48 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120225_123.56.155.33.log.gz.
+2015-11-13 14:55:50 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120210_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:50 INFO success_logger:20150612/201506120210_123.56.155.33.log
+2015-11-13 14:55:51 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120230_123.56.155.33.log.gz.
+2015-11-13 14:55:53 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120215_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:53 INFO success_logger:20150612/201506120215_123.56.155.33.log
+2015-11-13 14:55:53 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120220_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:53 INFO success_logger:20150612/201506120220_123.56.155.33.log
+2015-11-13 14:55:54 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120235_123.56.155.33.log.gz.
+2015-11-13 14:55:56 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120240_123.56.155.33.log.gz.
+2015-11-13 14:55:59 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120230_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:55:59 INFO success_logger:20150612/201506120230_123.56.155.33.log
+2015-11-13 14:55:59 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120245_123.56.155.33.log.gz.
+2015-11-13 14:56:00 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120225_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:00 INFO success_logger:20150612/201506120225_123.56.155.33.log
+2015-11-13 14:56:02 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120250_123.56.155.33.log.gz.
+2015-11-13 14:56:03 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120240_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:03 INFO success_logger:20150612/201506120240_123.56.155.33.log
+2015-11-13 14:56:04 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120235_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:04 INFO success_logger:20150612/201506120235_123.56.155.33.log
+2015-11-13 14:56:05 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120255_123.56.155.33.log.gz.
+2015-11-13 14:56:05 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120245_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:05 INFO success_logger:20150612/201506120245_123.56.155.33.log
+2015-11-13 14:56:06 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120300_123.56.155.33.log.gz.
+2015-11-13 14:56:09 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120305_123.56.155.33.log.gz.
+2015-11-13 14:56:09 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120250_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:09 INFO success_logger:20150612/201506120250_123.56.155.33.log
+2015-11-13 14:56:11 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120310_123.56.155.33.log.gz.
+2015-11-13 14:56:12 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120300_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:12 INFO success_logger:20150612/201506120300_123.56.155.33.log
+2015-11-13 14:56:12 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120315_123.56.155.33.log.gz.
+2015-11-13 14:56:13 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120255_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:13 INFO success_logger:20150612/201506120255_123.56.155.33.log
+2015-11-13 14:56:14 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120320_123.56.155.33.log.gz.
+2015-11-13 14:56:16 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120315_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:16 INFO success_logger:20150612/201506120315_123.56.155.33.log
+2015-11-13 14:56:17 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120325_123.56.155.33.log.gz.
+2015-11-13 14:56:19 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120330_123.56.155.33.log.gz.
+2015-11-13 14:56:19 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120320_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:19 INFO success_logger:20150612/201506120320_123.56.155.33.log
+2015-11-13 14:56:19 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120310_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:19 INFO success_logger:20150612/201506120310_123.56.155.33.log
+2015-11-13 14:56:21 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120335_123.56.155.33.log.gz.
+2015-11-13 14:56:23 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120330_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:23 INFO success_logger:20150612/201506120330_123.56.155.33.log
+2015-11-13 14:56:23 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120340_123.56.155.33.log.gz.
+2015-11-13 14:56:25 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120345_123.56.155.33.log.gz.
+2015-11-13 14:56:26 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120335_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:26 INFO success_logger:20150612/201506120335_123.56.155.33.log
+2015-11-13 14:56:28 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120340_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:28 INFO success_logger:20150612/201506120340_123.56.155.33.log
+2015-11-13 14:56:28 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120350_123.56.155.33.log.gz.
+2015-11-13 14:56:28 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120325_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:28 INFO success_logger:20150612/201506120325_123.56.155.33.log
+2015-11-13 14:56:29 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120355_123.56.155.33.log.gz.
+2015-11-13 14:56:31 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120350_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:31 INFO success_logger:20150612/201506120350_123.56.155.33.log
+2015-11-13 14:56:31 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120400_123.56.155.33.log.gz.
+2015-11-13 14:56:33 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120355_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:33 INFO success_logger:20150612/201506120355_123.56.155.33.log
+2015-11-13 14:56:33 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120405_123.56.155.33.log.gz.
+2015-11-13 14:56:35 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120345_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:35 INFO success_logger:20150612/201506120345_123.56.155.33.log
+2015-11-13 14:56:35 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120410_123.56.155.33.log.gz.
+2015-11-13 14:56:36 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120400_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:36 INFO success_logger:20150612/201506120400_123.56.155.33.log
+2015-11-13 14:56:37 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120415_123.56.155.33.log.gz.
+2015-11-13 14:56:38 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120410_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:38 INFO success_logger:20150612/201506120410_123.56.155.33.log
+2015-11-13 14:56:38 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120420_123.56.155.33.log.gz.
+2015-11-13 14:56:40 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120425_123.56.155.33.log.gz.
+2015-11-13 14:56:41 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120415_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:41 INFO success_logger:20150612/201506120415_123.56.155.33.log
+2015-11-13 14:56:42 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120430_123.56.155.33.log.gz.
+2015-11-13 14:56:43 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120420_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:43 INFO success_logger:20150612/201506120420_123.56.155.33.log
+2015-11-13 14:56:44 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120425_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:44 INFO success_logger:20150612/201506120425_123.56.155.33.log
+2015-11-13 14:56:44 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120435_123.56.155.33.log.gz.
+2015-11-13 14:56:46 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120440_123.56.155.33.log.gz.
+2015-11-13 14:56:47 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120445_123.56.155.33.log.gz.
+2015-11-13 14:56:49 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120435_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:49 INFO success_logger:20150612/201506120435_123.56.155.33.log
+2015-11-13 14:56:49 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120440_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:49 INFO success_logger:20150612/201506120440_123.56.155.33.log
+2015-11-13 14:56:49 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120450_123.56.155.33.log.gz.
+2015-11-13 14:56:51 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120445_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:51 INFO success_logger:20150612/201506120445_123.56.155.33.log
+2015-11-13 14:56:51 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120455_123.56.155.33.log.gz.
+2015-11-13 14:56:52 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120500_123.56.155.33.log.gz.
+2015-11-13 14:56:53 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120455_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:53 INFO success_logger:20150612/201506120455_123.56.155.33.log
+2015-11-13 14:56:54 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120505_123.56.155.33.log.gz.
+2015-11-13 14:56:55 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120500_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:55 INFO success_logger:20150612/201506120500_123.56.155.33.log
+2015-11-13 14:56:56 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120510_123.56.155.33.log.gz.
+2015-11-13 14:56:57 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120505_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:56:57 INFO success_logger:20150612/201506120505_123.56.155.33.log
+2015-11-13 14:57:00 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120515_123.56.155.33.log.gz.
+2015-11-13 14:57:00 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120510_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:00 INFO success_logger:20150612/201506120510_123.56.155.33.log
+2015-11-13 14:57:02 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120520_123.56.155.33.log.gz.
+2015-11-13 14:57:03 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120515_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:03 INFO success_logger:20150612/201506120515_123.56.155.33.log
+2015-11-13 14:57:04 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120525_123.56.155.33.log.gz.
+2015-11-13 14:57:05 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120520_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:05 INFO success_logger:20150612/201506120520_123.56.155.33.log
+2015-11-13 14:57:06 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120530_123.56.155.33.log.gz.
+2015-11-13 14:57:07 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120525_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:07 INFO success_logger:20150612/201506120525_123.56.155.33.log
+2015-11-13 14:57:08 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120535_123.56.155.33.log.gz.
+2015-11-13 14:57:09 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120540_123.56.155.33.log.gz.
+2015-11-13 14:57:09 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120530_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:09 INFO success_logger:20150612/201506120530_123.56.155.33.log
+2015-11-13 14:57:11 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120545_123.56.155.33.log.gz.
+2015-11-13 14:57:12 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120535_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:12 INFO success_logger:20150612/201506120535_123.56.155.33.log
+2015-11-13 14:57:12 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120550_123.56.155.33.log.gz.
+2015-11-13 14:57:13 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120555_123.56.155.33.log.gz.
+2015-11-13 14:57:14 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120600_123.56.155.33.log.gz.
+2015-11-13 14:57:15 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120540_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:15 INFO success_logger:20150612/201506120540_123.56.155.33.log
+2015-11-13 14:57:16 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120605_123.56.155.33.log.gz.
+2015-11-13 14:57:17 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120545_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:17 INFO success_logger:20150612/201506120545_123.56.155.33.log
+2015-11-13 14:57:17 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120610_123.56.155.33.log.gz.
+2015-11-13 14:57:19 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120405_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:19 INFO success_logger:20150612/201506120405_123.56.155.33.log
+2015-11-13 14:57:19 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120615_123.56.155.33.log.gz.
+2015-11-13 14:57:21 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120550_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:21 INFO success_logger:20150612/201506120550_123.56.155.33.log
+2015-11-13 14:57:21 ERROR com.mobivans.remote.hdfs.HdfsUtils:Failed to Upload hdfs://10.19.150.8:9000/ to HDFS! Waiting for reupload!
+2015-11-13 14:57:21 INFO failure_logger:hdfs://10.19.150.8:9000/
+2015-11-13 14:57:21 ERROR com.mobivans.remote.hdfs.HdfsUtils:Failed to Upload hdfs://10.19.150.8:9000/ to HDFS! Waiting for reupload!
+2015-11-13 14:57:21 INFO failure_logger:hdfs://10.19.150.8:9000/
+2015-11-13 14:57:21 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120620_123.56.155.33.log.gz.
+2015-11-13 14:57:23 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120625_123.56.155.33.log.gz.
+2015-11-13 14:57:25 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120555_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:25 INFO success_logger:20150612/201506120555_123.56.155.33.log
+2015-11-13 14:57:25 ERROR com.mobivans.remote.hdfs.HdfsUtils:Failed to Upload hdfs://10.19.150.8:9000/ to HDFS! Waiting for reupload!
+2015-11-13 14:57:25 INFO failure_logger:hdfs://10.19.150.8:9000/
+2015-11-13 14:57:26 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120630_123.56.155.33.log.gz.
+2015-11-13 14:57:29 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120635_123.56.155.33.log.gz.
+2015-11-13 14:57:30 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120305_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:57:30 INFO success_logger:20150612/201506120305_123.56.155.33.log
+2015-11-13 14:57:31 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120640_123.56.155.33.log.gz.
+2015-11-13 14:57:33 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120645_123.56.155.33.log.gz.
+2015-11-13 14:57:36 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120650_123.56.155.33.log.gz.
+2015-11-13 14:57:37 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120655_123.56.155.33.log.gz.
+2015-11-13 14:57:39 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120700_123.56.155.33.log.gz.
+2015-11-13 14:57:40 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120705_123.56.155.33.log.gz.
+2015-11-13 14:57:42 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120710_123.56.155.33.log.gz.
+2015-11-13 14:57:43 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120715_123.56.155.33.log.gz.
+2015-11-13 14:57:45 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120720_123.56.155.33.log.gz.
+2015-11-13 14:57:46 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120725_123.56.155.33.log.gz.
+2015-11-13 14:57:48 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120730_123.56.155.33.log.gz.
+2015-11-13 14:57:49 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120735_123.56.155.33.log.gz.
+2015-11-13 14:57:51 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120740_123.56.155.33.log.gz.
+2015-11-13 14:57:52 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120745_123.56.155.33.log.gz.
+2015-11-13 14:57:54 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120750_123.56.155.33.log.gz.
+2015-11-13 14:57:55 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120755_123.56.155.33.log.gz.
+2015-11-13 14:57:57 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120800_123.56.155.33.log.gz.
+2015-11-13 14:57:58 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120805_123.56.155.33.log.gz.
+2015-11-13 14:58:00 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120810_123.56.155.33.log.gz.
+2015-11-13 14:58:01 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120815_123.56.155.33.log.gz.
+2015-11-13 14:58:03 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120820_123.56.155.33.log.gz.
+2015-11-13 14:58:04 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120825_123.56.155.33.log.gz.
+2015-11-13 14:58:05 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120610_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:58:05 INFO success_logger:20150612/201506120610_123.56.155.33.log
+2015-11-13 14:58:06 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120830_123.56.155.33.log.gz.
+2015-11-13 14:58:07 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120625_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:58:07 INFO success_logger:20150612/201506120625_123.56.155.33.log
+2015-11-13 14:58:08 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120835_123.56.155.33.log.gz.
+2015-11-13 14:58:09 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload 20150612/201506120620_123.56.155.33.log to HDFS successfully!~
+2015-11-13 14:58:09 INFO success_logger:20150612/201506120620_123.56.155.33.log
+2015-11-13 14:58:10 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120840_123.56.155.33.log.gz.
+2015-11-13 14:58:12 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120845_123.56.155.33.log.gz.
+2015-11-13 14:58:13 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120850_123.56.155.33.log.gz.
+2015-11-13 14:58:14 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: 20150612/201506120855_123.56.155.33.log.gz.

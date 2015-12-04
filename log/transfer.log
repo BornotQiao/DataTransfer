@@ -1,0 +1,6 @@
+2015-12-02 17:51:26 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: /20150612/201506120710_123.56.155.33.log.gz.
+2015-12-02 17:51:41 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload /20150612/201506120710_123.56.155.33.log to HDFS successfully!~
+2015-12-02 17:51:41 INFO success_logger:/20150612/201506120710_123.56.155.33.log
+2015-12-02 18:03:07 INFO com.mobivans.remote.ftp.FtpUtils:Downloading file: /20150612/201506120715_123.56.155.33.log.gz.
+2015-12-02 18:03:18 INFO com.mobivans.remote.hdfs.HdfsUtils:Upload /20150612/201506120715_123.56.155.33.log to HDFS successfully!~
+2015-12-02 18:03:18 INFO success_logger:/20150612/201506120715_123.56.155.33.log
